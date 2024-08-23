@@ -7,5 +7,7 @@ Bu calismalarin bazilari test amaclidir.
 
 Calismalarin test niteligi tasidigini unutulmamalidir.
 
-Calismalarin tamami ya da bir kisminin kullanilmasi halinde olusabilecek risklerin tamami kullaniciya aittir. 
+Bu calismalarin tamami ya da bir kisminin kullanilmasi halinde olusabilecek risklerin tamami kullaniciya aittir. 
 
+
+Ciler K. 
